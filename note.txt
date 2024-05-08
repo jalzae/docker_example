@@ -1,0 +1,2 @@
+docker build -t jest-alpine .
+docker run jest-alpine
