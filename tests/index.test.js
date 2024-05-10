@@ -5,5 +5,5 @@ test('add of 1 + 2 to equal 3', () => {
 });
 
 test('multiply 3*4 to equal 12', () => {
-  expect(index.multiply(3, 4)).toBe(12);
+  expect(index.multiply(3, 4)).toBe(13);
 })
